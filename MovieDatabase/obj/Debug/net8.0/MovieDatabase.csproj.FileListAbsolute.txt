@@ -1,0 +1,14 @@
+D:\GC Practice\MovieDatabase\MovieDatabase\bin\Debug\net8.0\MovieDatabase.exe
+D:\GC Practice\MovieDatabase\MovieDatabase\bin\Debug\net8.0\MovieDatabase.deps.json
+D:\GC Practice\MovieDatabase\MovieDatabase\bin\Debug\net8.0\MovieDatabase.runtimeconfig.json
+D:\GC Practice\MovieDatabase\MovieDatabase\bin\Debug\net8.0\MovieDatabase.dll
+D:\GC Practice\MovieDatabase\MovieDatabase\bin\Debug\net8.0\MovieDatabase.pdb
+D:\GC Practice\MovieDatabase\MovieDatabase\obj\Debug\net8.0\MovieDatabase.GeneratedMSBuildEditorConfig.editorconfig
+D:\GC Practice\MovieDatabase\MovieDatabase\obj\Debug\net8.0\MovieDatabase.AssemblyInfoInputs.cache
+D:\GC Practice\MovieDatabase\MovieDatabase\obj\Debug\net8.0\MovieDatabase.AssemblyInfo.cs
+D:\GC Practice\MovieDatabase\MovieDatabase\obj\Debug\net8.0\MovieDatabase.csproj.CoreCompileInputs.cache
+D:\GC Practice\MovieDatabase\MovieDatabase\obj\Debug\net8.0\MovieDatabase.dll
+D:\GC Practice\MovieDatabase\MovieDatabase\obj\Debug\net8.0\refint\MovieDatabase.dll
+D:\GC Practice\MovieDatabase\MovieDatabase\obj\Debug\net8.0\MovieDatabase.pdb
+D:\GC Practice\MovieDatabase\MovieDatabase\obj\Debug\net8.0\MovieDatabase.genruntimeconfig.cache
+D:\GC Practice\MovieDatabase\MovieDatabase\obj\Debug\net8.0\ref\MovieDatabase.dll
